@@ -1,0 +1,23 @@
+MI PROGRAMA DE ENTRENAMIENTO
+============================
+
+1. Descomprime el archivo ZIP en una carpeta fija del ordenador.
+2. Haz doble clic en "Mi_Programa_Entrenamiento.html".
+3. Ábrelo preferentemente con Google Chrome o Microsoft Edge.
+4. Pulsa un día del calendario para entrar en el entrenamiento.
+5. Marca cada serie y cada ejercicio a medida que los termines.
+6. Usa "Editar plan" o el lápiz de cada ejercicio para cambiar nombres,
+   series, repeticiones, pesos, notas y enlaces de vídeo.
+7. Para imprimir, utiliza los botones "Imprimir plan" o "Imprimir sesión".
+8. Pulsa periódicamente "Copia de seguridad". Se descargará un archivo JSON
+   con todos tus datos. Para recuperarlos, usa "Importar copia".
+
+IMPORTANTE
+---------
+- Los datos se guardan en el navegador de ese ordenador. No borres los datos
+  de navegación sin haber hecho antes una copia de seguridad.
+- Mantén el archivo HTML en la misma carpeta y ábrelo siempre con el mismo
+  navegador para conservar el histórico.
+- La aplicación funciona sin conexión, salvo los vídeos enlazados a Internet.
+- En la primera versión solo se ha incorporado el enlace de vídeo que se podía
+  leer claramente en la grabación. Los demás pueden añadirse desde "Editar".
